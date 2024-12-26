@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hey there! I'm Vikas Gadge, a pre-final year computer science student studying at Sagar Institute of Research and Technology.<br>I'm passionate about open source contributions and always ready to learn and explore.<br>Excited to showcase my skills and achievements on GitHub!"
+"Hey there! I'm Vikas Gadge, a final year computer science student studying at Sagar Institute of Research and Technology.<br>I'm passionate about open source contributions and always ready to learn and explore.<br>Excited to showcase my skills and achievements on GitHub!"
 
 
 ## 🌐 Socials:
